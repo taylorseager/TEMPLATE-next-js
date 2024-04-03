@@ -5,7 +5,7 @@
 function Home() {
   // const { user } = useAuth(); // TODO: COMMENT IN FOR AUTH
 
-  const user = { displayName: 'Taylor' }; // TODO: COMMENT OUT FOR AUTH
+  const user = { displayName: 'Taylor' };
   return (
     <div
       className="text-center d-flex flex-column justify-content-center align-content-center"
